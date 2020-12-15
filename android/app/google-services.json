@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "400615785787",
+    "firebase_url": "https://lavaant-customer-app.firebaseio.com",
+    "project_id": "lavaant-customer-app",
+    "storage_bucket": "lavaant-customer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400615785787:android:716e4546938ce0e42aa31e",
+        "android_client_info": {
+          "package_name": "com.lavaant_customerapp_reactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400615785787-lvccj49cmlueq9g20cbq2bf233vrrovt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lavaant_customerapp_reactnative",
+            "certificate_hash": "a944f216efc51dd468c5b69390c764bf38b84128"
+          }
+        },
+        {
+          "client_id": "400615785787-b44eo7pn6op6i1uknsr8h5un61r5d4fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMv4XpznEamPOHRDT7b0IiXqaTO3eZOwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400615785787-b44eo7pn6op6i1uknsr8h5un61r5d4fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
